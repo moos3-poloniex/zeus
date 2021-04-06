@@ -1,7 +1,7 @@
 # Zeus
  Zeus is the god of the sky, lightning, and the thunder in Ancient Greek religion and legends, and ruler of all the gods on Mount Olympus. Well.... infrastructure in the cloud! 
 
- This repo controls everything in the next generation of MakerBot's Cloud Infrastructure. This is a sinlge place to rule them all. The vision is anything in the cloud 
+ This repo controls everything in the next generation of Cloud Infrastructure. This is a sinlge place to rule them all. The vision is anything in the cloud 
  will be control via Terraform and this code base. 
 
 
